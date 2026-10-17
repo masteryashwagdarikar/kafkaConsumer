@@ -1,0 +1,5 @@
+package com.example.kafka_consumer;
+
+public class KafkaConsumerService {
+
+}
